@@ -1,10 +1,28 @@
-# React + Vite + TypeScript Template (react-vite-ui)
+<h1 align="center">
+  <a href="https://nice-maintainer.dev" alt="Nice Maintainer Homepage">🌸 My portfolio</a>
+</h1>
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Dan5py/react-vite-ui/blob/main/LICENSE)
+<div align="center">
+  <strong>Welcome to my portfolio website repository! 🚀</strong>
+</div>
+<div align="center">
+ As a versatile Frontend Developer and Embedded System Engineer, I've crafted this website to showcase my passion for creating elegant and efficient digital experiences. Whether you're here to explore my frontend projects, delve into my embedded systems expertise, or discuss potential freelance collaborations, this website serves as a hub for it all.
+</div>
 
-A React + Vite template powered by shadcn/ui.
 
-## 🎉 Features
+## 🎉 Key Features:
+
+🌐 Frontend Showcase: Explore a collection of web applications and projects I've developed, each highlighting my skills in HTML, CSS, JavaScript, and various frontend frameworks.
+
+🔌 Embedded Systems: Dive into my embedded system engineering work, where I tackle hardware and software integration challenges, from microcontrollers to IoT devices.
+
+🤝 Freelance Opportunities: Let's connect! If you're interested in collaborating on a project or need assistance with frontend development or embedded systems, feel free to reach out.
+
+📚 Blog and Portfolio: Stay updated with my latest tech insights, tutorials, and articles on the blog section. Peruse through my portfolio to see the variety of projects I've worked on.
+
+🔧 Customization: This website is built with flexibility in mind. Feel free to fork this repository and adapt it for your own portfolio, or use it as inspiration for your own web development journey.
+
+## 📚 Tech
 
 - **React** - A JavaScript library for building user interfaces.
 - **Vite** - A fast, opinionated frontend build tool.
