@@ -3,7 +3,6 @@ import {
   useScroll,
   useTransform,
   MotionValue,
-  easeIn,
   easeInOut,
 } from "framer-motion";
 
@@ -37,7 +36,7 @@ function ParallaxSvg({
   );
 }
 
-function Title({ progress }: { progress: MotionValue<number> }) {
+function Title() {
   return (
     <div className="flex fixed flex-col w-full mt-12 top-0 left-0 items-center justify-center">
       <h1 className="text-6xl font-bold text-black">Parallax</h1>
@@ -59,7 +58,7 @@ function Header() {
         <div className="relative w-full h-fit">
           <ParallaxSvg src={Layer1} speed={500} progress={scrollYProgress} />
           <ParallaxSvg src={Layer2} speed={400} progress={scrollYProgress} />
-          <Title progress={scrollYProgress} />
+          <Title  />
           <ParallaxSvg src={Layer3} speed={300} progress={scrollYProgress} />
           <ParallaxSvg src={Layer4} speed={200} progress={scrollYProgress} />
           <ParallaxSvg
